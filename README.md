@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Java, HTML, CSS, Springboot**
+- 🌱 I’m currently learning **Java, HTML, CSS, Springboot, React JS**
 - 📫 How to reach me **pranaykumarpokala@gmail.com**
 
 ---
