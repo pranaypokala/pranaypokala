@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Pranay 👋
 
-<!--
-**pranaypokala/pranaypokala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master student at UMBC with a background in AI and Machine Learning from Woxsen University. I'm passionate about leveraging technology to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
+- **Languages**: Python, MATLAB
+- **Tools**: Jupyter Notebook, Git, Docker
+- **Frameworks**: TensorFlow, Keras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+### [Brain Tumour Mobile App](https://github.com/pranaypokala/brain-tumour-mobile-app)
+A mobile application for brain tumor detection using deep learning.
+- **Tech**: Python, TensorFlow, Keras
+
+### [Amazon Stock Price Prediction](https://github.com/pranaypokala/amazon-stock-price-prediction)
+Predicting Amazon stock prices using machine learning models.
+- **Tech**: Python, Scikit-Learn
+
+## 📈 Achievements
+- Certified in Machine Learning by Coursera
+- Awarded Best Research Paper at XYZ Conference
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pranaypokala) or check out my [portfolio](https://your-portfolio-link.com).
