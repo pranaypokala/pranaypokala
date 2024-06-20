@@ -4,8 +4,7 @@
 
 
 <p align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=pranaypokala&color=brightblue)
+![Profile Views](https://komarev.com/ghpvc/?username=pranaypokala&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/pranaypokala?label=Followers)
 </p>
 
