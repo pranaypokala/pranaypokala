@@ -39,8 +39,6 @@
 
 ## 🛠️ Tech Stack
 
----
-
 ### Databases
 
 ---
