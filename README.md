@@ -3,12 +3,12 @@
 
 
 
-<p align="center">
+<div align="center">
  
 ![Profile Views](https://komarev.com/ghpvc/?username=pranaypokala&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/pranaypokala?label=Followers)
 
-</p>
+</div>
 
 ---
 
