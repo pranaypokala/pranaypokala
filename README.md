@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaypokala&theme=darkhub&row=1&no-frame=true&margin-w=15" alt="pranaypokala" /></a>
-</p>
-
----
-
 ## 🧑‍💻 About Me
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Springboot, React JS**
@@ -137,3 +131,10 @@ Web application for breast cancer detection using deep learning.
 - **Best Student** for Research Inclination Award by Woxsen University
 - **Best Internship Project Award** by YUGMA
 - **Best Paper Award** by JCR-BAES
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaypokala&theme=darkhub&row=1&no-frame=true&margin-w=15" alt="pranaypokala" /></a>
+</p>
+
