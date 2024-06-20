@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 I’m currently learning **Java, HTML, CSS, Springboot, React JS**
+- 🌱 I’m currently learning full stack technologies and frameworks.
 - 📫 How to reach me **pranaykumarpokala@gmail.com**
 
 ---
