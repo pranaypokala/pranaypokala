@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pranay Kumar</h1>
 <h3 align="center">A passionate developer looking for opportunities in data science and full stack development</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranaypokala&color=brightgreen)
+
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranaypokala&label=Profile%20views&color=0e75b6&style=flat" alt="pranaypokala" />
-  <img src="https://img.shields.io/github/followers/pranaypokala?label=Followers" alt="followers-count">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=pranaypokala&color=brightblue)
+![GitHub Followers](https://img.shields.io/github/followers/pranaypokala?label=Followers)
 </p>
 
 ---
