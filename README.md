@@ -103,6 +103,12 @@ Analyzed employee retention using decision tree and logistic regression algorith
 Web application for breast cancer detection using deep learning.
 - **Tech**: Python, TensorFlow, Keras, Streamlit
 
+### Furniture Application
+Web application for furniture showroom
+#### [Front-End](https://github.com/pranaypokala/furniture-frontend)
+#### [Back-End](https://github.com/pranaypokala/furniture-backend)
+- **Tech**: Java, Springboot, MySQL, ReactJS, Typescript, NodeJS, HTML, CSS
+
 ---
 
 ## 🏆 Achievements
