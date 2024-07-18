@@ -136,8 +136,3 @@ Web application for furniture showroom
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranaypokala&theme=darkhub&row=1&no-frame=true&margin-w=15" alt="pranaypokala" /></a>
-</p>
-
