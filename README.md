@@ -95,10 +95,6 @@ Predicting Amazon stock prices using machine learning models.
 Developed a model to detect COVID-19 from chest X-rays with 97% accuracy.
 - **Tech**: Python, TensorFlow, Keras
 
-### [Employee Retention Analysis](https://github.com/pranaypokala/employee-retention-analysis)
-Analyzed employee retention using decision tree and logistic regression algorithms.
-- **Tech**: Python, Scikit-Learn
-
 ### [Breast Cancer Detection Web App](https://github.com/pranaypokala/breast-cancer-detection)
 Web application for breast cancer detection using deep learning.
 - **Tech**: Python, TensorFlow, Keras, Streamlit
